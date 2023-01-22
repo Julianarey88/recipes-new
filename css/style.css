@@ -140,10 +140,10 @@ background-color: var(--secondary-color);
     background-position: center;
 }
 .stats--likes:before {
-    background-image: url('images/icons/raiting\ likes.svg');
+    background-image: url('../images/icons/raiting\ likes.svg');
 }
 .stats--views:before {
-    background-image: url('images/icons/rating\ views.svg');
+    background-image: url('../images/icons/rating\ views.svg');
 }
 .text-primary {
     color: var(--secondary-color);
@@ -186,7 +186,7 @@ header {
     column-gap: 10px;
 }
 .main__hero {
-    background-image: url('images/eggs.png');
+    background-image: url('../images/eggs.png');
     background-position: 100% -60px;
     background-size: 845px;
     background-repeat: no-repeat;
@@ -235,15 +235,15 @@ background-size: 50%;
 }
 
 .features__item--fast {
-    background-image: url('images/icons/clock.svg');
+    background-image: url('../images/icons/clock.svg');
   
     
 }
 .features__item--simple {
-    background-image: url('images/icons/status.svg');
+    background-image: url('../images/icons/status.svg');
 }
 .features__item--cheap {
-    background-image: url('images/icons/price.svg');
+    background-image: url('../images/icons/price.svg');
 }
 
 .popular-recipes {
@@ -413,7 +413,7 @@ h2+.articles {
     height: 36px;
     margin-left: 5px;
     align-self: baseline;
-    background-image: url('images/icons/arrow\ small.svg');
+    background-image: url('../images/icons/arrow\ small.svg');
     background-repeat: no-repeat;
     background-position: center;
     transition: all .25 ease-in-out;
@@ -477,7 +477,7 @@ color: #ffffff;
 /*catalog*/
 
 .main--catalog__hero {
-    background-image: url('/images/salat.png'/);
+    background-image: url('../images/salat.png');
     background-position: 100% -60px;
     background-size: 845px;
     background-repeat: no-repeat;
